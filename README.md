@@ -1,2 +1,2 @@
 # tests
-Selenium UI Tests
+Unity UI Tests
