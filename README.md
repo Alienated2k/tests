@@ -1,2 +1,2 @@
-# tests
+# Tests
 Unity UI Tests
